@@ -25,7 +25,7 @@ h1{
     padding-top: 10px;
     margin-bottom: 0;
 }
-span{
+span.booleaner{
     color: cornflowerblue;
 }
 
@@ -48,6 +48,52 @@ address.photographers{
     font-size: 12px;
 }
 
+span.highlighted{
+    background-color: yellow;
+}
+
 ul{
     padding: 0 0 0 20px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: dodgerblue;
+}
+
+th{
+    color: white;
+}
+
+#string1,
+#string3{
+    background-color: rgba(0, 174, 255, 0.205)
+}
+
+h3{
+    color: grey;
+}
+
+.imgfooter1{
+    width: 207px;
+    height: 207px;
+    background-image: url('../img/monitor.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.imgfooter2{
+    width: 207px;
+    height: 207px;
+    background-image: url('../img/graph.jpg');
+    background-size: cover;
+    background-position: center;
+    padding-top: 5px;
+}
+
+.container{
+    max-width: 1100px;
 }
