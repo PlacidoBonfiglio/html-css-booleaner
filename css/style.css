@@ -47,3 +47,7 @@ address.photographers{
     font-style: normal;
     font-size: 12px;
 }
+
+ul{
+    padding: 0 0 0 20px;
+}
