@@ -23,17 +23,27 @@ figure{
 
 h1{
     padding-top: 10px;
+    margin-bottom: 0;
 }
 span{
     color: cornflowerblue;
 }
 
 time,
-address{
+address.author{
     color: grey;
     font-style: normal;
 }
 
 time{
     font-size: 10px;
+}
+
+#tim{
+    padding-top: 10px;
+}
+
+address.photographers{
+    font-style: normal;
+    font-size: 12px;
 }
