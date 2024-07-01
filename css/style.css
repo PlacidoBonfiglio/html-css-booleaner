@@ -30,5 +30,10 @@ span{
 
 time,
 address{
-    color: lgrey;
+    color: grey;
+    font-style: normal;
+}
+
+time{
+    font-size: 10px;
 }
