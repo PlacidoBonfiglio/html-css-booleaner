@@ -1,0 +1,16 @@
+body,
+figure{
+    margin: 0;
+}
+
+#Testata{
+    height: 100px;
+    background-color: cornflowerblue;
+    background-image: url('../img/pattern.png');
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+#blogo{
+    width: 200px;
+}
