@@ -91,7 +91,15 @@ h3{
     background-image: url('../img/graph.jpg');
     background-size: cover;
     background-position: center;
-    padding-top: 5px;
+}
+
+.link1,
+.link2{
+    font-weight: 600;
+    padding: 10px 10px;
+    margin-top: 10px;
+    color:white
+    
 }
 
 .container{
