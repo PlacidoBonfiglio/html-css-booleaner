@@ -21,6 +21,7 @@ figure{
 h1{
     padding-top: 10px;
     margin-bottom: 0;
+    font-size: 30px;
 }
 span.booleaner{
     color: cornflowerblue;
@@ -66,9 +67,13 @@ th{
 }
 
 .cells{
+    text-align: left;
     padding-left: 0;
     width: 300px
-    
+}
+
+.cell{
+    text-align: left;
 }
 
 #string1,
